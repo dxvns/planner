@@ -20,9 +20,6 @@
     "Vice President",
     "President"
   ],
-  "sweetsRanks": [
-    
-  ],
   "gustosoSeniorRanks": [
     "d_xvns",
     "arxures"
@@ -30,12 +27,18 @@
   "gustosoHighRanks": [
     "fraczee",
     "AntiqueColours",
-    ""
+    "CYX0"
   ],
   "gustosoDevelopmentTeam": [
-    
+    "arxures",
+    "d_xvns"
   ],
-  " ": [
+  "gustosoVip": [
     " "
+  ],
+  "gustosoGroup": [
+    "group": 3141352,
+    "owner": "d_xvns",
+    "co-owner": "arxures"
   ]
 }
