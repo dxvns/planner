@@ -1,5 +1,5 @@
 {
-  "gustosoRanks": [
+  "gustosoRanks": {
     "Visitor",
     "Customer",
     "Acknowledged Customer",
@@ -19,26 +19,26 @@
     "Chief Executive Officer",
     "Vice President",
     "President"
-  ],
-  "gustosoSeniorRanks": [
+  },
+  "gustosoSeniorRanks": {
     "d_xvns",
     "arxures"
-  ],
-  "gustosoHighRanks": [
+  },
+  "gustosoHighRanks": {
     "fraczee",
     "AntiqueColours",
     "CYX0"
-  ],
-  "gustosoDevelopmentTeam": [
+  },
+  "gustosoDevelopmentTeam": {
     "arxures",
     "d_xvns"
-  ],
-  "gustosoVip": [
+  },
+  "gustosoVip": {
     " "
-  ],
-  "gustosoGroup": [
+    },
+  "gustosoGroup": {
     "group": 3141352,
     "owner": "d_xvns",
     "co-owner": "arxures"
-  ]
+    }
 }
