@@ -1,3 +1,38 @@
 {
-
+  "gustosoRanks": [
+    "Visitor",
+    "Customer",
+    "Acknowledged Customer",
+    "Trainee",
+    "Junior Barista",
+    "Barista",
+    "Senior Barista",
+    "Staff Assistant",
+    "Supervisor",
+    "Manager",
+    "Shift Leader",
+    "Executive Assistant",
+    "Executive Manager",
+    "Chief Development Officer",
+    "Chief Staff Officer",
+    "Chief Relations Officer",
+    "Chief Executive Officer",
+    "Vice President",
+    "President"
+  ],
+  "sweetsRanks": [
+    
+  ],
+  "gustosoSeniorRanks": [
+    "d_xvns",
+    "arxures"
+  ],
+  "gustosoHighRanks": [
+    "fraczee",
+    "AntiqueColours",
+    ""
+  ],
+  "gustosoDevelopmentTeam": [
+    
+  ]
 }
